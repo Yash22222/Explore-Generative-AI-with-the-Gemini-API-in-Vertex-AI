@@ -1,5 +1,5 @@
 
-## Multimodality with Gemini**
+## **Multimodality with Gemini**
 
 ### **Overview**
 This lab focuses on leveraging the **multimodal capabilities** of the **Gemini API** using **Vertex AI**. It builds upon the foundational understanding from the first lab and introduces tasks that involve combining **text, images, and video** as inputs. You'll explore how the Gemini 2.0 Flash model processes and generates intelligent responses from complex multimodal prompts, enabling advanced AI applications across diverse content types.
