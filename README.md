@@ -5,7 +5,7 @@ Text generation, image and video analysis for enhanced content creation, and app
 
 
 
-# 🌟 Explore Generative AI with the Gemini API in Vertex AI
+# Explore Generative AI with the Gemini API in Vertex AI
 
 **Skill Badge Level:** Intermediate  
 **Platform:** Google Cloud  
